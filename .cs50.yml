@@ -1,0 +1,3 @@
+submit50:
+  remote:
+    callback: https://cs50.cs.yale.edu/19sp/api/submit50_test
